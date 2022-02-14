@@ -8,7 +8,7 @@ Note: This Python file and Jupyter notebook are essentially copies of one anothe
 
 #### Clone the repository
 
-`git clone git@github.com:morphware/ethdenver.git`
+`git clone https://github.com/morphware/ethdenver`
 
 #### Change working directories
 
