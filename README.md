@@ -16,6 +16,8 @@ Note: This Python file and Jupyter notebook are essentially copies of one anothe
 
 ##### Note: You may need to install `virtualenv` if you don't already have it.
 
+###### On Ubuntu
+
 `sudo apt-get -y install virtualenv`
 
 #### Create your virtual environment
