@@ -14,6 +14,10 @@ Note: This Python file and Jupyter notebook are essentially copies of one anothe
 
 `cd ethdenver`
 
+##### Note: You may need to install `virtualenv` if you don't already have it.
+
+`sudo apt-get -y install virtualenv`
+
 #### Create your virtual environment
 
 `virtualenv -p python3 venv`
@@ -24,7 +28,7 @@ Note: This Python file and Jupyter notebook are essentially copies of one anothe
 
 #### Install the model's dependencies
 
-`pip3 -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 #### Run the Python file
 
